@@ -8,18 +8,21 @@ This Shell Script helps engineers with these functions:
 
 
 - Compressing/Decompressing
+     
      It can compress (gz) or decompress (gz/zip) text files
 
 - Split/Merge
-    It can split large files into smaller files
-    It can merge small files into larger files
+     
+     It can split large files into smaller files
+     It can merge small files into larger files
 
 - Headers
-    It can remove the header from files
-    It can add same headers into splitted files
+    
+     It can remove the header from files
+     It can add same headers into splitted files
 
 - Remove extra lines
-    It can remove first or last n lines
+     It can remove first or last n lines
 
 
 
