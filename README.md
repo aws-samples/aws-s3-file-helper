@@ -14,7 +14,7 @@ Split/Merge
 
 Headers
 - It can remove the header from files
-- It can add same headers into splitted files
+- It can add same headers into split files
 
 Remove extra lines
 - It can remove first or last n lines
