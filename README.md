@@ -2,22 +2,22 @@
 
 This Shell Script helps engineers with these functions:
 
-- File(s) Copy
-    It can copies one or more files from one location to another location including S3 buckets
+File(s) Copy
+- It can copies one or more files from one location to another location including S3 buckets
 
-- Compressing/Decompressing
-    It can compress (gz) or decompress (gz/zip) text files
+Compressing/Decompressing
+- It can compress (gz) or decompress (gz/zip) text files
 
-- Split/Merge
-    It can split large files into smaller files
-    It can merge small files into larger files
+Split/Merge
+- It can split large files into smaller files
+- It can merge small files into larger files
 
-- Headers
-    It can remove the header from files
-    It can add same headers into splitted files
+Headers
+- It can remove the header from files
+- It can add same headers into splitted files
 
-- Remove extra lines
-    It can remove first or last n lines
+Remove extra lines
+- It can remove first or last n lines
 
 
 
@@ -70,6 +70,7 @@ Just copy script/filecopy.sh file and start using it
 
 ## References
 [Amazon S3](https://aws.amazon.com/s3/)
+
 [AWS CLI Command Reference](https://docs.aws.amazon.com/cli/latest/index.html)
 
 ## Security
