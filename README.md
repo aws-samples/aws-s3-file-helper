@@ -2,9 +2,8 @@
 
 This Shell Script helps engineers with these functions:
 
-- File(s) Copy
-
-     It can copies one or more files from one location to another location including S3 buckets
+File(s) Copy
+- It can copies one or more files from one location to another location including S3 buckets
 
 
 
