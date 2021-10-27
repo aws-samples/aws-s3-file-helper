@@ -6,8 +6,9 @@ This Shell Script helps engineers with these functions:
 
      It can copies one or more files from one location to another location including S3 buckets
 
+
 - Compressing/Decompressing
-    It can compress (gz) or decompress (gz/zip) text files
+     It can compress (gz) or decompress (gz/zip) text files
 
 - Split/Merge
     It can split large files into smaller files
